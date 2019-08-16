@@ -1,7 +1,7 @@
 **DAVID MORTON - 713-632-5038 - david@isamorton.com**
 
 **PROFILE**  
-I love programming, and I do it well. I’m experienced, skilled, focused, passionate, customer-centric, out-of-the-box, and ownership-driven in everything I do, and am looking for a software or data engineering role at a great company with smart people.
+I love programming, and I do it well, and I have a history of learning new frameworks and languages quickly. I’m experienced, skilled, focused, passionate, customer-centric, out-of-the-box, and ownership-driven in everything I do. 
 
 **TECHNICAL SKILLS**  
 JS, AngularJS, PostgreSQL, C#, .NET, T-SQL, NodeJS, ASP.NET, MVC, TS, JQuery, DI, TDD, Git, VSTO, GIS, etc.
